@@ -1,0 +1,114 @@
+---
+title: "Catatan dan tautan untuk webinar *Pursuing International Scholarships for PhD Research*"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: '[Gede Primahadi Wijaya Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-rajeg) <a itemprop="sameAs" content="https://orcid.org/0000-0002-2047-8621" href="https://orcid.org/0000-0002-2047-8621" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>'
+output:
+    html_notebook:
+      fig_caption: yes
+      fig_width: 6
+      theme: "cosmo"
+      highlight: "pygments"
+      number_sections: yes
+      toc: yes
+      toc_float: yes
+    html_document: default
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+# Pengantar
+
+Laman ini berisi tautan-tautan dan informasi terkait dengan webinar *Pursuing International Scholarships for PhD Research* yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari KelasKu dan Global Shapers Denpasar). 
+
+# Informasi dan tautan terkait *Monash University Research Degree & Scholarships*
+
+1. [Research degree application](https://www.monash.edu/study/how-to-apply/research-degree-applications)
+
+1. [The Monash Doctoral Program](https://www.monash.edu/graduate-research/future-students/phd) -- skema studi Doktoral di Monash University
+
+    - Program saya dulu di [Faculty of Arts](https://www.monash.edu/arts) adalah yang [Profressional Development](https://www.monash.edu/graduate-research/future-students/phd/professional-development-option) 
+
+1. Informasi untuk [mahasiswa internasional](https://www.monash.edu/graduate-research/future-students/international-students)
+
+1. Panduan [proposal riset](https://www.monash.edu/arts/guidelines) (Monash Arts Graduate Research) -- tapi ide dasarnya bisa digunakan oleh bidang ilmu lain.
+
+    - Lihat juga tips [menulis proposal penelitian](https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal) dari Monash University.
+
+1. Laman utama [graduate scholarship](https://www.monash.edu/graduate-research/future-students/scholarships)
+
+1. [*Monash Graduate Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-graduate-scholarship-mgs) (MGS) -- beasiswa untuk *stipend/living allowance*
+
+1. [*Monash International Tuition Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-tuition-scholarship) (MITS) -- beasiswa untuk *tuition fee* dan asuransi kesehatan *single* (untuk mahasiswa saja)
+
+1. Laman kriteria penerimaan ([*admission criteria*](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-two/2-1)) (sebagai mahasiswa PhD) -- 
+
+1. Laman informasi terkait cara melamar ([*How to apply*](https://www.monash.edu/graduate-research/future-students/apply))
+
+    - Panduan memasukkan lamaran/aplikasi di [*Graduate Research Admission and Scholarship Online Application*](https://www.monash.edu/graduate-research/future-students/apply/application/guide)
+    - *How to apply* untuk [Monash Arts Graduate Research](https://www.monash.edu/arts/graduate_research/how-to-apply) -- pelamar dari jurusan lain bisa melihat di laman jurusan masing-masing
+
+1. [besaran beasiswa]((https://www.monash.edu/graduate-research/future-students/scholarships/stipend)) yang diperoleh (untuk semua jenis beasiswa, tidak hanya MGS) -- **untuk 2020**
+    
+1. [Kriteria dan persyaratan](https://www.monash.edu/graduate-research/future-students/eligibility2/eligibility)
+
+    > "Monash scholarships are very competitive and are awarded based on your academic record, any research outputs and prior research experience."
+
+1. [Kebijakan dan prosedur beasiswa](https://www.monash.edu/graduate-research/future-students/scholarships/scholarship-policy-and-procedures)
+
+    - [Research Training Program (RTP) Scholarship Procedure](https://www.monash.edu/__data/assets/pdf_file/0005/943268/RTP-Scholarships-Policy.pdf) (berkas PDF)
+    - [RTP Scholarship Policy](https://www.monash.edu/__data/assets/pdf_file/0011/944471/RTP-Scholarships-Procedure.pdf) (berkas PDF)
+
+1. [Persyaratan kemampuan Bahasa Inggris](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-two/2-2)
+
+    - Ketentuan Umum (IELTS Academic = 6.5 overall)
+    - Ketentuan Khusus/Fakultas (Arts; Business & Economics; Law) (IELTS Academic = 7.0 overall & semua komponen tidak lebih kecil dari 6.5)
+
+1. [Handbook of Doctoral Degree](https://www.monash.edu/graduate-research/faqs-and-resources/content) Monash Graduate Program -- lihat **handbook** ini untuk **informasi lebih rinci!**
+
+1. [Off-campus/external enrollment](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-three/3-5)
+
+    - Lihat §3.5.3 terkait batasan-batasan ketika melamar off-campus enrollment
+
+1. Menyampaikan pertanyaan langsung ke Monash University Graduate Research Program lewat [enquire now](https://www.monash.edu/graduate-research/future-students/future-research-students)
+
+# Tautan informasi beasiswa universitas lain di Australia
+
+1. [University of Melbourne](https://www.unimelb.edu.au) (UniMelb) [graduate research scholarship](https://gradresearch.unimelb.edu.au/scholarships), beberapa di antaranya:
+
+    - [Graduate Research Scholarships](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships)
+    - [Melbourne Research Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-research-scholarship)
+    - Research Training Program [(RTP) Scholarship](https://scholarships.unimelb.edu.au/awards/research-training-program-scholarship)
+    - [Faculty of Arts Graduate Research International Grant](https://scholarships.unimelb.edu.au/awards/faculty-of-arts-graduate-research-international-grant) -- travel grant ke luar negeri untuk riset dan kerja lapangan.
+    - lihat lebih banyak [di sini](https://scholarships.unimelb.edu.au/?f.Eligibility+Study+Stage%7CeligibilityStudyStage=Currently+studying&f.Eligibility+Citizenship%7CeligibilityCitizenship=International+student&f.Eligibility+Study+Level%7CeligibilityStudyLevel=Graduate+research&f.Eligibility+Study+Area%7CeligibilityStudyArea=Language%2C+literature+and+cultural+studies&f.Eligibility+Tags%7CeligibilityTags=Linguistics&start_rank=1) -- laman hasil pencarian dengan kriteria mahasiswa internasional untuk riset di Faculty of Arts, jurusan Linguistics.
+
+1. Laman informasi [riset pascasarjana University of Sydney](https://www.sydney.edu.au/scholarships/international/postgraduate-research.html) (berisi juga tautan untuk beasiswa universitas), di antaranya:
+
+    - [general scholarship](https://www.sydney.edu.au/scholarships/international/postgraduate-research/general.html)
+    - [faculty scholarship](https://www.sydney.edu.au/scholarships/international/postgraduate-research/faculty.html)
+    - [Australian RTP scholarship](https://www.sydney.edu.au/scholarships/domestic/postgraduate-research/australian-government-research-training-program.html.html)
+
+1. Tautan untuk beasiswa riset bagi mahasiswa pascasarjana internasional di [Australian National University](https://www.anu.edu.au/study/scholarships/find-a-scholarship?field_finsup_student_types_tid%5B%5D=1229&field_student_levels_tid%5B%5D=128&combine=&sort_by=title#views-exposed-form-gateway-financial-support-option-panel-pane-1) ([ANU](https://www.anu.edu.au)), di antaranya:
+
+    - [ANU H(igher) D(egree) by R(esearch) Fee Merit Scholarship](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-hdr-fee-merit-scholarship) -- untuk student fee dan asuransi kesehatan
+    - [ANU HDR Supplementary Scholarship](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-hdr-supplementary-scholarship) -- living cost dan research expenses
+    - [ANU Master of Philosophy Scholarship](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-master-of-philosophy-scholarship)
+    - [ANU PhD Scholarships](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-phd-scholarships)
+    - [ANU Tuition Fee Scholarship - PhD](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-tuition-fee-scholarship-phd)
+    - [ANU University Research Scholarships](https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships)
+
+1. Tautan informasi [beasiswa riset di University of Queensland](https://graduate-school.uq.edu.au/qm-scholarships) ([UQ](https://www.uq.edu.au))
+
+    - [ulasan/*overview*](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-–-includes-rtp)
+    - [how to apply](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-–-includes-rtp#qt-scholarship_tabs-foundation-tabs-2)
+    - [kontak](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-–-includes-rtp#qt-scholarship_tabs-foundation-tabs-3) yang bisa dihubungi
+    - [syarat & ketentuan](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-–-includes-rtp#qt-scholarship_tabs-foundation-tabs-4)
+
+# Lain-lain
+
+a. Book chapter: "Anti-mainstream: Berburu Beasiswa Riset Internasional dari Monash University"
+
+    > Rajeg, Gede Primahadi Wijaya. (2016). Anti-mainstream: Berburu Beasiswa Riset Internasional dari Monash University (Version 0.1.0). In Berlayar: Perjalanan Mahasiswa Indonesia Meraih PhD. Jakarta, Indonesia: Writerpreneur Club. http://doi.org/10.5281/zenodo.2576660
+
+a. Book chapter: "Pertemuan ilmiah sebagai asupan akademis"
+
+    > Rajeg, Gede Primahadi Wijaya. (2019, February 25). Pertemuan Ilmiah sebagai Asupan Akademis (Version 0.1.0). Zenodo. http://doi.org/10.5281/zenodo.2576651
