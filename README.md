@@ -1,0 +1,1 @@
+[Laman ini](https://gederajeg.github.io/phd-scholarships/) berisi tautan-tautan dan informasi terkait dengan webinar *Pursuing International Scholarships for PhD Research* yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari *KelasKu* dan *Global Shapers Denpasar*).
