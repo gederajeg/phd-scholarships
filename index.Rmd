@@ -1,5 +1,5 @@
 ---
-title: "Catatan dan tautan untuk webinar *Pursuing International Scholarships for PhD Research*"
+title: "Catatan dan tautan untuk webinar [*Pursuing International Scholarships for PhD Research*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg/52)"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 author: '[Gede Primahadi Wijaya Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-rajeg) <a itemprop="sameAs" content="https://orcid.org/0000-0002-2047-8621" href="https://orcid.org/0000-0002-2047-8621" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>'
 output:
@@ -18,7 +18,7 @@ output:
 
 # Pengantar
 
-Laman ini berisi tautan-tautan dan informasi terkait dengan webinar *Pursuing International Scholarships for PhD Research* yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari KelasKu dan Global Shapers Denpasar). 
+Laman ini berisi tautan-tautan dan informasi terkait dengan webinar [*Pursuing International Scholarships for PhD Research*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg/52) yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari KelasKu dan Global Shapers Denpasar). 
 
 # Informasi dan tautan terkait *Monash University Research Degree & Scholarships*
 
