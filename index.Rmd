@@ -105,6 +105,8 @@ Laman ini berisi tautan-tautan dan informasi terkait dengan webinar *Pursuing In
 
 # Lain-lain
 
+a. Slides panduan [menulis proposal riset](https://drive.google.com/file/d/0B3zama_6XoYKbE12S1JaUEpTN3M/view?usp=sharing) (dari Dosen DAAD) -- **halaman 15** memberikan kriteria-kriteria yang mencerminkan *__significance of the study__*.
+
 a. Book chapter: "Anti-mainstream: Berburu Beasiswa Riset Internasional dari Monash University"
 
     > Rajeg, Gede Primahadi Wijaya. (2016). Anti-mainstream: Berburu Beasiswa Riset Internasional dari Monash University (Version 0.1.0). In Berlayar: Perjalanan Mahasiswa Indonesia Meraih PhD. Jakarta, Indonesia: Writerpreneur Club. http://doi.org/10.5281/zenodo.2576660
