@@ -1,6 +1,6 @@
 ---
 title: "Catatan dan tautan untuk webinar [*Pursuing International Scholarships for PhD Research*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg/52)"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "created on 20 June, 2020; last update: `r format(Sys.time(), '%d %B, %Y')`"
 author: '[Gede Primahadi Wijaya Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-rajeg) <a itemprop="sameAs" content="https://orcid.org/0000-0002-2047-8621" href="https://orcid.org/0000-0002-2047-8621" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>'
 output:
     html_notebook:
@@ -18,9 +18,15 @@ output:
 
 # Pengantar
 
-Laman ini berisi tautan-tautan dan informasi terkait dengan webinar [*Pursuing International Scholarships for PhD Research*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg/52) yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari KelasKu dan Global Shapers Denpasar). 
+Laman ini berisi tautan-tautan dan informasi terkait beasiswa riset doktoral di sejumlah kampus di Australia, khususnya, di Monash University. Informasi ini disajikan pada kegiatan berikut:
 
-# Informasi dan tautan terkait *Monash University Research Degree & Scholarships*
+a. webinar [*Pursuing International Scholarships for PhD Research*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg/52) yang diselenggarakan pada tanggal 20 Juni 2020 oleh *KelasKu* dan dipandu oleh Heka Arcana Putra (dari KelasKu dan Global Shapers Denpasar);
+
+a. seminar dan temu alumni dengan judul [*Kiat-kiat Mendapatkan Beasiswa Pendidikan*](https://udayananetworking.unud.ac.id/lecturer/gallery/photo/880-gede-primahadi-wijaya-rajeg-phd/1282), yang diselenggarakan pada hari Senin, 27 September 2021, dalam rangka HUT ke-63 dan BK FIB ke-40, Fakultas Ilmu Budaya, Universitas Udayana.
+
+# Informasi dan tautan terkait *Monash University Research Degree*
+
+1. Laman utama untuk program [Monash Graduate Research](https://www.monash.edu/graduate-research) 
 
 1. [Research degree application](https://www.monash.edu/study/how-to-apply/research-degree-applications)
 
@@ -28,30 +34,31 @@ Laman ini berisi tautan-tautan dan informasi terkait dengan webinar [*Pursuing I
 
     - Program saya dulu di [Faculty of Arts](https://www.monash.edu/arts) adalah yang [Profressional Development](https://www.monash.edu/graduate-research/future-students/phd/professional-development-option) 
 
-1. Informasi untuk [mahasiswa internasional](https://www.monash.edu/graduate-research/future-students/international-students)
-
-1. Panduan [proposal riset](https://www.monash.edu/arts/guidelines) (Monash Arts Graduate Research) -- tapi ide dasarnya bisa digunakan oleh bidang ilmu lain.
+1. Panduan [proposal riset](https://www.monash.edu/arts/guidelines) (Monash Arts Graduate Research [MA dan PhD]) -- tapi ide dasarnya bisa digunakan oleh bidang ilmu lain.
 
     - Lihat juga tips [menulis proposal penelitian](https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal) dari Monash University.
 
-1. Laman utama [graduate scholarship](https://www.monash.edu/graduate-research/future-students/scholarships)
+1. Laman kriteria penerimaan ([*admission criteria*](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-two/2-1)) untuk mahasiswa PhD 
 
-1. [*Monash Graduate Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-graduate-scholarship-mgs) (MGS) -- beasiswa untuk *stipend/living allowance*
+1. Laman kriteria penerimaan ([*admission criteria*](https://www.monash.edu/graduate-research/support-and-resources/handbooks/masters/chapter-two/2-1)) untuk *Master's Degree by Research* 
 
-1. [*Monash International Tuition Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-tuition-scholarship) (MITS) -- beasiswa untuk *tuition fee* dan asuransi kesehatan *single* (untuk mahasiswa saja)
+    - informasi untuk *Master of Arts by research*, bisa dilihat [di sini](https://www.monash.edu/study/courses/find-a-course/2022/arts-2695?international=true)
 
-1. Laman kriteria penerimaan ([*admission criteria*](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-two/2-1)) (sebagai mahasiswa PhD) -- 
 
-1. Laman informasi terkait cara melamar ([*How to apply*](https://www.monash.edu/graduate-research/future-students/apply))
+# Informasi dan tautan terkait *Monash University Research Scholarships*
 
-    - Panduan memasukkan lamaran/aplikasi di [*Graduate Research Admission and Scholarship Online Application*](https://www.monash.edu/graduate-research/future-students/apply/application/guide)
+1. Laman utama untuk [graduate research scholarship](https://www.monash.edu/graduate-research/future-students/scholarships) -- untuk beasiswa yang khusus ditawarkan kepada **mahasiswa internasional**, bisa lihat [di sini](https://www.monash.edu/graduate-research/study/scholarships/fees-scholarships#international_1392532)
+
+1. Informasi tentang [*Monash Graduate Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-graduate-scholarship-mgs) (MGS) -- beasiswa untuk *stipend/living allowance*
+
+1. Informasi tentang [*Monash International Tuition Scholarships*](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-tuition-scholarship) (MITS) -- beasiswa untuk *tuition fee* dan asuransi kesehatan *single* (untuk mahasiswa saja per 2018)
+
+1. Laman informasi terkait cara melamar ([*How to apply*](https://www.monash.edu/graduate-research/future-students/apply)) untuk menjadi mahasiswa (yaitu mendapatkan *Letter of Acceptance*) sekaligus beasiswa:
+
+    - Panduan memasukkan lamaran/aplikasi (untuk PhD) di [*Graduate Research Admission and Scholarship Online Application*](https://www.monash.edu/graduate-research/future-students/apply/application/guide)
     - *How to apply* untuk [Monash Arts Graduate Research](https://www.monash.edu/arts/graduate_research/how-to-apply) -- pelamar dari jurusan lain bisa melihat di laman jurusan masing-masing
-
-1. [besaran beasiswa]((https://www.monash.edu/graduate-research/future-students/scholarships/stipend)) yang diperoleh (untuk semua jenis beasiswa, tidak hanya MGS) -- **untuk 2020**
     
-1. [Kriteria dan persyaratan](https://www.monash.edu/graduate-research/future-students/eligibility2/eligibility)
-
-    > "Monash scholarships are very competitive and are awarded based on your academic record, any research outputs and prior research experience."
+1. Hal-hal yang sering ditanyakan (*Frequently Asked Questions*) terkait *admission* (penerimaan) dan *scholarships* (beasiswa) bisa dilihat [di sini](https://www.monash.edu/graduate-research/support-and-resources/faqs/admission-scholarship)
 
 1. [Kebijakan dan prosedur beasiswa](https://www.monash.edu/graduate-research/future-students/scholarships/scholarship-policy-and-procedures)
 
@@ -60,10 +67,12 @@ Laman ini berisi tautan-tautan dan informasi terkait dengan webinar [*Pursuing I
 
 1. [Persyaratan kemampuan Bahasa Inggris](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-two/2-2)
 
-    - Ketentuan Umum (IELTS Academic = 6.5 overall)
+    - Ketentuan Umum (IELTS Academic = 6.5 overall dan masing-masing komponen tidak kurang dari 6.0)
     - Ketentuan Khusus/Fakultas (Arts; Business & Economics; Law) (IELTS Academic = 7.0 overall & semua komponen tidak lebih kecil dari 6.5)
 
 1. [Handbook of Doctoral Degree](https://www.monash.edu/graduate-research/faqs-and-resources/content) Monash Graduate Program -- lihat **handbook** ini untuk **informasi lebih rinci!**
+
+1. [Handbook for Research Master's Degree](https://www.monash.edu/graduate-research/support-and-resources/handbooks/masters) -- lihat **handbook** ini untuk **informasi lebih rinci!**
 
 1. [Off-campus/external enrollment](https://www.monash.edu/graduate-research/faqs-and-resources/content/chapter-three/3-5)
 
@@ -114,3 +123,6 @@ a. Book chapter: "Anti-mainstream: Berburu Beasiswa Riset Internasional dari Mon
 a. Book chapter: "Pertemuan ilmiah sebagai asupan akademis"
 
     > Rajeg, Gede Primahadi Wijaya. (2019, February 25). Pertemuan Ilmiah sebagai Asupan Akademis (Version 0.1.0). Zenodo. http://doi.org/10.5281/zenodo.2576651
+    
+a. Video [wawancara](https://www.youtube.com/playlist?list=PL6kE55FBuZnVlz6HhEpd_khYiBVtyPw4N) dengan PPIA Monash University tentang pengalaman memperoleh beasiswa internasional dari Monash University.
+  
